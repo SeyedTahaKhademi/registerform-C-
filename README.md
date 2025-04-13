@@ -2,7 +2,7 @@
 
 
 
-hello gus its a Console windoes project with C# and you can develope it
+hello guys its a Console windoes project with C# and you can develope it
 
 
 
